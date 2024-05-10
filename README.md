@@ -1,6 +1,6 @@
-# PySpark Examples Repository
+# PySpark Repository
 
-Welcome to my PySpark examples repository! 🚀
+Welcome to my PySpark repository! 🚀
 
 ## Purpose
 This repository aims to provide practical examples, tips, and best practices for working with PySpark. Whether you're new to PySpark or an experienced user, you'll find useful code snippets, explanations, and demonstrations here.
